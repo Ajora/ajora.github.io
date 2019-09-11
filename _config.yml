@@ -9,7 +9,7 @@ title:               Blog
 tagline:             Blog
 url:                 http://ajora.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "http://ajora.github.io/"
 
 # Assets
 #
@@ -23,4 +23,4 @@ sass:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/Ajora/ajora.github.io/
