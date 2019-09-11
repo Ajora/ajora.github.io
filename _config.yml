@@ -9,7 +9,7 @@ title:               Blog
 tagline:             Blog
 url:                 http://ajora.github.io/
 paginate:            1
-baseurl:             "http://ajora.github.io/"
+baseurl:             ""
 
 # Assets
 #
