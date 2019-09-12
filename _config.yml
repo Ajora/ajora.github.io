@@ -2,14 +2,15 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Blog
 tagline:             Blog
 url:                 http://ajora.github.io/
-paginate:            1
 baseurl:             ""
+plugins: [jekyll-paginate, jekyll-gist]
+paginate: 5
+paginate_path: "page:num"
 
 # Assets
 #
@@ -23,4 +24,4 @@ sass:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/Ajora/ajora.github.io/
+  repo:              http://github.com/Ajora/ajora.github.io/
