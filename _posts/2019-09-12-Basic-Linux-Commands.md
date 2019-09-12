@@ -54,7 +54,7 @@ Append file1 to file2:
 ```cat file1 >> file2```
 
 Combine file1 and file2 to make file3:
-```cat file1 fil2 > file3```
+```cat file1 file2 > file3```
 
 ### More/Less
 Terminal pagers
