@@ -47,13 +47,13 @@ Multiple files:
 View file with numbers for each line:
 ```cat -n file1```
 
-Create new file
+Create new file:
 ```cat >file1```
 
-Append file1 to file2 
+Append file1 to file2:
 ```cat file1 >> file2```
 
-Combine file1 and file2 to make file3
+Combine file1 and file2 to make file3:
 ```cat file1 fil2 > file3```
 
 ### More/Less
